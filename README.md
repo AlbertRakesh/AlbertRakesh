@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlbertRakesh
+- 👋 Hi, I’m Rakesh Naik
 - 👀 I’m interested in Physics and Computer Science.
 - 🌱 I’m currently learning Cern ROOT.
 - 📫 Email: rakeshnaik1109@gmail.com
